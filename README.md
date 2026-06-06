@@ -2,7 +2,7 @@
 
   <!-- Developed By -->
   <span style="font-size: 22px; font-weight: 700; color:#FF8A00;">
-    Developed By SHAHADAT SAHU
+    Developed By EIMON JUNIOR 
   </span>
 
 </p>
